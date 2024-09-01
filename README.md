@@ -72,7 +72,7 @@ I determine the key features influencing customer churn by analyzing feature imp
 
 # Feature Importance
 
-* I identify the top features contributing to customer churn using feature importances from the models.
+I identify the top features contributing to customer churn using feature importances from the models.
 
 ![Top 10 Feature Importances in RandomForestClassifier Model](Top_10_Feature_Importances_in_RandomForestClassifier_Model.png)
 
