@@ -43,7 +43,7 @@ I execute the following preprocessing steps:
 Next, I define the predictor variables (X) and the target variable (y) for our machine learning models and proceed to split the dataset into training and testing sets.
 Upon observing class imbalance in the 'churn' target variable, I apply SMOTE (Synthetic Minority Over-sampling Technique) to balance the classes through resampling.
 
-# Modelling
+# Modeling
 
 In this section, I develop machine learning models to predict customer churn using the following algorithms:
 
