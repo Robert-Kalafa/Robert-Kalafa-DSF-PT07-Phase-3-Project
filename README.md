@@ -109,4 +109,5 @@ The best model for this dataset is the Tuned RandomForestClassifier with the fol
 * Customer Feedback Analysis: Evaluate customer feedback from surveys and social media to gain insights into customer sentiments and issues. Use this information to enhance service offerings and improve the overall customer experience.
 
 # For More Information
-See the full analysis in the [Juptyer Notebook](Syriatel_Customer_Churn_Project.ipynb) or review the[presentation](Syriatel_Customer_Churn_Project.pdf)
+See the full analysis in the [Juptyer Notebook](Syriatel_Customer_Churn_Project.ipynb) or review the[Presentation](Syriatel_Customer_Churn_Project_Jupyter_Notebook.pdf)
+
